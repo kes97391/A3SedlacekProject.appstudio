@@ -33,22 +33,7 @@
             "forms",
             "forReverseStates",
             "forReverseStates.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "functionCompare",
-            "functionCompare.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "DogsRUs",
-            "DogsRUs.json"
+
           ]
         }
       ],
@@ -71,7 +56,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "DogsRUs",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

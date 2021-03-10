@@ -33,14 +33,7 @@
             "forms",
             "forReverseStates",
             "forReverseStates.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "functionCompare",
-            "functionCompare.json"
+
           ]
         }
       ],

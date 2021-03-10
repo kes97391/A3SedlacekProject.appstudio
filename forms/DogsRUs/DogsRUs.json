@@ -1,0 +1,101 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#CCCCFF",
+  "backgroundimage": "purrrrple.jpeg",
+  "borderColor": "#800080",
+  "borderStyle": "groove",
+  "borderWidth": "20",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "DogsRUs",
+        "Elements",
+        "lblTitle.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "DogsRUs",
+        "Elements",
+        "imgUp.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "DogsRUs",
+        "Elements",
+        "btnWishList.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "DogsRUs",
+        "Elements",
+        "lblProductsAvailable.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "DogsRUs",
+        "Elements",
+        "btnDesiredItem.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "DogsRUs",
+        "Elements",
+        "lblDesiredItem.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "DogsRUs",
+        "Elements",
+        "inptNewItem.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "DogsRUs",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}

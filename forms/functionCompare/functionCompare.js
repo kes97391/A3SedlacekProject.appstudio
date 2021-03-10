@@ -1,3 +1,4 @@
+
 function compare(pass1, pass2) {
   newPassword == pass1
   confirmPassword == pass2
@@ -10,4 +11,4 @@ function compare(pass1, pass2) {
 
 let newPassword = prompt("What is your new password?")
 let confirmPassword = prompt("Confirm your new password!")
-let passwordConfirmation = compare(newPassword, confirmPassword)
+

@@ -17,6 +17,4 @@ while(finishedYet == false) {
 let i = 0 
 
 while(i < cities.length) {
-  console.log(cities[i].toLowerCase()):
-  i++;
 
